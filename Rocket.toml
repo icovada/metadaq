@@ -1,0 +1,2 @@
+[default.databases.metadaq]
+url = "postgres://metadaq:metadaq@localhost/metadaq
